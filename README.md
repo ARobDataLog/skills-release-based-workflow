@@ -14,7 +14,7 @@
 _Create a release based workflow that is built on the foundations of the GitHub flow._
 
 </header>
-
+:)
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
